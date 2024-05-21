@@ -1,6 +1,7 @@
 {
   "name": "clarify",
   "private": true,
+  "homepage": "https://arositen.github.io/Clarify/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
